@@ -1,0 +1,7 @@
+{
+  "interval": 1,
+  "log_file": "sample.log",
+  "keywords": ["ERROR", "Exception", "OutOfMemory"],
+  "alert_on_repeat": 3,
+  "notify": ["console"]
+}

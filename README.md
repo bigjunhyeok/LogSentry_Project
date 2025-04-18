@@ -17,7 +17,7 @@
 
 ## 📁 프로젝트 구조
 
-'''
+```
 logsentry/
 ├── main.py              # 실행 진입점
 ├── watcher.py           # 로그 감시 로직
@@ -26,7 +26,7 @@ logsentry/
 ├── .env                 # 슬랙 웹훅 보안 키 저장
 ├── logs/                # 샘플 로그 위치
 └── requirements.txt     # 필요 패키지 목록
-'''
+```
 
 ---
 
@@ -34,19 +34,19 @@ logsentry/
 
 ### 1. 의존성 설치
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 ### 2. `.env` 설정
 
-'''
+```
 SLACK_WEBHOOK_URL=https://hooks.slack.com/services/xxx/yyy/zzz
-'''
+```
 
 ### 3. `config.json` 구성 예시
 
-'''
+```
 {
   "interval": 1,
   "log_file": "logs/sample.log",
@@ -54,23 +54,23 @@ SLACK_WEBHOOK_URL=https://hooks.slack.com/services/xxx/yyy/zzz
   "alert_on_repeat": 3,
   "notify": ["console", "slack"]
 }
-'''
+```
 
 ---
 
 ## 🚀 실행 방법
 
-'''
+```
 python main.py
-'''
+```
 
 ---
 
 ## 🧪 테스트
 
-'''
+```
 echo "2025-04-18 23:15:00 - ERROR - DB 연결 실패" >> logs/sample.log
-'''
+```
 
 → 일정 횟수 이상 감지되면 알림 전송
 

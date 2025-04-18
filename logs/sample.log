@@ -1,3 +1,9 @@
 echo "INFO - 시스템 시작됨" >> sample.log
 echo "ERROR - DB 연결 실패" >> sample.log
 echo "Exception in main thread" >> sample.log
+echo "INFO - 시스템 시작됨" >> sample.log
+echo "ERROR - DB 연결 실패" >> sample.log
+echo "Exception in main thread" >> sample.log
+echo "INFO - 시스템 시작됨" >> sample.log
+echo "ERROR - DB 연결 실패" >> sample.log
+echo "Exception in main thread" >> sample.log

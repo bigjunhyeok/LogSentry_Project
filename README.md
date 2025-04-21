@@ -18,14 +18,24 @@
 ## 📁 프로젝트 구조
 
 ```
-logsentry/
-├── main.py              # 실행 진입점
-├── watcher.py           # 로그 감시 로직
-├── notifier.py          # 알림 전송 모듈
-├── config.json          # 감시 설정 파일
-├── .env                 # 슬랙 웹훅 보안 키 저장
-├── logs/                # 샘플 로그 위치
-└── requirements.txt     # 필요 패키지 목록
+LogSentry_Project/
+├── config/                  # 설정 파일 저장 디렉터리
+│   ├── config.json          # 감시 대상 로그 파일, 키워드, 알림 설정 등 메인 설정 파일
+│   └── log_config.json      # 로그 메시지 템플릿 (레벨, 메시지 종류 등 정의)
+│
+├── logs/                    # 실시간 생성되는 로그 파일 저장 디렉터리
+│   ├── app.log              # 애플리케이션 로그
+│   └── db.log               # DB 관련 로그
+│
+├── core/                    # 핵심 기능 모듈 디렉터리
+│   ├── loader.py            # 설정 파일 로드 함수 모듈
+│   ├── generator.py         # 로그 메시지 생성기 (랜덤 로그 발생)
+│   ├── watcher.py           # 로그 파일 감시기 (키워드 감지 및 이벤트 알림)
+│   └── notifier.py          # 알림 전송 모듈 (Slack, Console 등)
+│
+├── main.py                  # 메인 실행 스크립트 (감시기 및 생성기 구동)
+├── requirements.txt         # Python 패키지 의존성 정의
+└── README.md                # 프로젝트 설명 문서 (바로 이 파일)
 ```
 
 ---

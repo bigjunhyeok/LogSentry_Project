@@ -76,10 +76,21 @@ python main.py
 
 ---
 
-## 🧪 테스트
+## 📄 로그 확인
 
 ```
-echo "2025-04-18 23:15:00 - ERROR - DB 연결 실패" >> logs/sample.log
+2025-04-21 10:36:07 | GENERATOR |           | [실행] ➡️logs/app.log
+2025-04-21 10:36:07 | GENERATOR |           | [실행] ➡️logs/db.log
+2025-04-21 10:36:07 | WATCHER   |           | [감시] ➡️logs/app.log
+2025-04-21 10:36:07 | WATCHER   |           | [감시] ➡️logs/db.log
+2025-04-21 10:36:07 | GENERATOR | ERROR     | 예외 발생: IndexError
+2025-04-21 10:36:09 | GENERATOR | CRITICAL  | ORA-12170: TNS 연결 시간 초과
+2025-04-21 10:36:10 | GENERATOR | ERROR     | FATAL: DB 프로세스 종료됨
+2025-04-21 10:36:10 | GENERATOR | CRITICAL  | 시스템 시작됨
+2025-04-21 10:36:11 | GENERATOR | ERROR     | 쿼리 수행 시간 초과
+2025-04-21 10:36:12 | GENERATOR | CRITICAL  | 시스템 시작됨
+2025-04-21 10:36:12 | WATCHER   |           | [알림] 🔔 logs/db.log에서 2건 이상 감지됨
+2025-04-21 10:36:12 | WATCHER   | WARN      | Slack Webhook 설정 안됨
 ```
 
 → 일정 횟수 이상 감지되면 알림 전송

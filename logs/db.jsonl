@@ -1,0 +1,116 @@
+{"timestamp": "2025-04-21T10:26:27.530441", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:26:27 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:26:28.545229", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:27 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:33.563756", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:31 | CRITICAL  | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:34.579539", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:33 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:35.581338", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:26:34 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:26:36.585285", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:35 | DEBUG     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:40.612957", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:26:40 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:26:41.628846", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:26:41 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:26:42.630116", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:26:41 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:26:44.631302", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:26:43 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:26:46.648064", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:46 | WARN      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:50.664332", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:26:49 | CRITICAL  | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:26:54.695885", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:26:53 | ERROR     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:26:55.696999", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:54 | INFO      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:26:56.697637", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:26:56 | CRITICAL  | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:00.714287", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:00 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:01.730546", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:00 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:27:02.745682", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:01 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:04.763267", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:02 | ERROR     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:27:05.765451", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:04 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:07.780874", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:06 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:14.829606", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:14 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:18.862940", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:18 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:27:21.879851", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:20 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:23.896656", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:23 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:24.897736", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:23 | ERROR     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:25.914122", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:25 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:27:26.914997", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:25 | WARN      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:30.946690", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:30 | WARN      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:27:32.949033", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:32 | INFO      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:36.981475", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:36 | CRITICAL  | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:38.997032", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:38 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:27:40.999523", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:40 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:44.030907", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:27:43 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:27:45.045637", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:44 | DEBUG     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:46.047646", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:27:45 | INFO      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:27:50.080853", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:49 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:51.082355", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:50 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:53.098505", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:52 | INFO      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:54.099310", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:52 | DEBUG     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:27:55.114574", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:54 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:56.131107", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:55 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:58.147097", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:56 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:27:59.148523", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:57 | INFO      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:00.163754", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:27:58 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:01.164626", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:27:59 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:03.180603", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:03 | DEBUG     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:04.181399", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:03 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:05.182727", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:04 | INFO      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:06.198190", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:04 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:28:08.215573", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:07 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:10.232513", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:09 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:15.265656", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:14 | ERROR     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:16.280803", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:14 | ERROR     | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:28:17.282377", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:15 | INFO      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:28:23.132617", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:28:22 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:28:24.147803", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:22 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:28:26.166548", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:23 | INFO      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:27.179381", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:24 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:28.181260", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:25 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:34.222737", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:31 | CRITICAL  | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:28:35.238165", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:33 | DEBUG     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:36.253549", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:35 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:38.284334", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:36 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:43.361224", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:28:42 | ERROR     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:28:44.376611", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:28:42 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:28:47.415559", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:47 | INFO      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:50.433580", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:50 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:52.450390", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:52 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:28:54.467024", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:28:54 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:28:56.500201", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:55 | CRITICAL  | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:28:57.503772", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:56 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:28:59.516558", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:59 | WARN      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:00.532335", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:28:59 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:05.568147", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:02 | ERROR     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:06.584034", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:03 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:09.602350", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:07 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:10.614202", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:08 | INFO      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:11.616385", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:10 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:15.632701", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:14 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:16.649134", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:15 | WARN      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:17.650478", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:17 | ERROR     | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:20.666281", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:29:20 | CRITICAL  | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:29:21.682841", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:29:20 | DEBUG     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:29:25.700757", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:29:25 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:29:27.732725", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:29:26 | INFO      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:29:30.740321", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:28 | WARN      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:31.750771", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:30 | CRITICAL  | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:33.766373", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:33 | INFO      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:34.768034", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:33 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:37.790493", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:37 | ERROR     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:39.800923", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:38 | WARN      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:43.834453", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:43 | CRITICAL  | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:44.851203", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:29:44 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:29:47.883409", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:47 | ERROR     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:48.884915", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:48 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:49.900714", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:48 | DEBUG     | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:50.917387", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:50 | ERROR     | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:29:51.923520", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:29:51 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:29:53.933463", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:53 | ERROR     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:29:55.950619", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:55 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:56.966813", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:29:56 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:29:58.983390", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:29:58 | DEBUG     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:30:00.999916", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:00 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:30:02.001937", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:30:01 | INFO      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:30:05.033820", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:04 | DEBUG     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:30:07.035836", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:06 | DEBUG     | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:30:08.051092", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:07 | WARN      | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:30:10.068327", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:30:09 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:30:20.901326", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:30:20 | DEBUG     | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:30:25.950141", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:24 | ERROR     | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:30:26.951437", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:30:26 | WARN      | ORA-01017: 사용자 이름/비밀번호 오류"}
+{"timestamp": "2025-04-21T10:30:27.968122", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:30:27 | WARN      | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:30:30.987840", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:30:30 | CRITICAL  | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:30:33.003105", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:30:31 | CRITICAL  | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:30:34.018058", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:30:32 | INFO      | 디스크 용량 부족"}

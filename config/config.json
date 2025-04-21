@@ -1,0 +1,17 @@
+{
+  "interval": 1,
+  "generate_log": true,
+  "notify": ["console", "slack"],
+  "log_files": [
+    {
+      "path": "logs/app.log",
+      "keywords": ["ERROR", "CRITICAL", "예외"],
+      "alert_on_repeat": 3
+    },
+    {
+      "path": "logs/db.log",
+      "keywords": ["ORA-", "DB 연결 실패", "쿼리", "디스크"],
+      "alert_on_repeat": 2
+    }
+  ]
+}

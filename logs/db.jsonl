@@ -114,3 +114,9 @@
 {"timestamp": "2025-04-21T10:30:30.987840", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:30:30 | CRITICAL  | 디스크 용량 부족"}
 {"timestamp": "2025-04-21T10:30:33.003105", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:30:31 | CRITICAL  | 쿼리 수행 시간 초과"}
 {"timestamp": "2025-04-21T10:30:34.018058", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:30:32 | INFO      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:36:09.854642", "file": "logs/db.log", "keyword": "ORA-", "message": "2025-04-21 10:36:09 | CRITICAL  | ORA-12170: TNS 연결 시간 초과"}
+{"timestamp": "2025-04-21T10:36:12.900766", "file": "logs/db.log", "keyword": "쿼리", "message": "2025-04-21 10:36:11 | ERROR     | 쿼리 수행 시간 초과"}
+{"timestamp": "2025-04-21T10:36:13.916190", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:36:11 | INFO      | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:36:14.931528", "file": "logs/db.log", "keyword": "DB 연결 실패", "message": "2025-04-21 10:36:12 | INFO      | DB 연결 실패"}
+{"timestamp": "2025-04-21T10:36:15.941028", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:36:13 | DEBUG     | 디스크 용량 부족"}
+{"timestamp": "2025-04-21T10:36:16.951664", "file": "logs/db.log", "keyword": "디스크", "message": "2025-04-21 10:36:14 | DEBUG     | 디스크 용량 부족"}

@@ -90,3 +90,6 @@
 {"timestamp": "2025-04-21T10:30:28.952251", "file": "logs/app.log", "keyword": "CRITICAL", "message": "2025-04-21 10:30:28 | CRITICAL  | 세션 초기화 완료"}
 {"timestamp": "2025-04-21T10:30:29.967509", "file": "logs/app.log", "keyword": "CRITICAL", "message": "2025-04-21 10:30:29 | CRITICAL  | 사용자 로그인: root"}
 {"timestamp": "2025-04-21T10:30:33.986416", "file": "logs/app.log", "keyword": "ERROR", "message": "2025-04-21 10:30:33 | ERROR     | 모듈 로드 실패: scheduler"}
+{"timestamp": "2025-04-21T10:36:11.885407", "file": "logs/app.log", "keyword": "CRITICAL", "message": "2025-04-21 10:36:10 | CRITICAL  | 시스템 시작됨"}
+{"timestamp": "2025-04-21T10:36:12.900766", "file": "logs/app.log", "keyword": "CRITICAL", "message": "2025-04-21 10:36:12 | CRITICAL  | 시스템 시작됨"}
+{"timestamp": "2025-04-21T10:36:14.931528", "file": "logs/app.log", "keyword": "예외", "message": "2025-04-21 10:36:14 | INFO      | 예외 발생: ConnectionRefusedError"}
